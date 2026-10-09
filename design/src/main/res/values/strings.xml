@@ -111,7 +111,7 @@
     <string name="cancel">Cancel</string>
     <string name="reset">Reset</string>
 
-    <string name="clash_logcat">Clash Logcat</string>
+    <string name="clash_logcat">YS Logcat</string>
     <string name="history">History</string>
     <string name="logcat">Logcat</string>
 
@@ -147,7 +147,7 @@
     <string name="access_control_packages">Access Control Packages</string>
     <string name="access_control_packages_summary">Configure access permission for apps</string>
 
-    <string name="options_unavailable">Options Unavailable until Clash Stopped</string>
+    <string name="options_unavailable">Options Unavailable until YS Stopped</string>
 
     <string name="general">General</string>
     <string name="dns">DNS</string>
@@ -238,7 +238,7 @@
     <string name="meta_github_url" translatable="false">https://t.me/qingtian_boss</string>
     <string name="clash_meta_core_url" translatable="false">https://t.me/qingtian_boss</string>
 
-    <string name="tips_properties"><![CDATA[Accept Only <strong>Clash Config</strong>(including <strong>Proxy</strong>/<strong>Rules</strong>)]]></string>
+    <string name="tips_properties"><![CDATA[Accept Only <strong>YS Config</strong>(including <strong>Proxy</strong>/<strong>Rules</strong>)]]></string>
     <string name="tips_help"><![CDATA[YS is a <strong>free app</strong>]]></string>
 
     <string name="google_play_url" translatable="false">https://t.me/qingtian_boss</string>
@@ -310,7 +310,7 @@
 
     <string name="mode_switch_tips">Valid only for current session</string>
 
-    <string name="clash_meta_wiki">Clash Meta Wiki</string>
+    <string name="clash_meta_wiki">YS 文档</string>
     <string name="clash_meta_wiki_url" translatable="false">https://t.me/qingtian_boss</string>
 
     <string name="meta_features">Meta Features</string>
@@ -355,8 +355,8 @@
     <string name="toast_profile_updated_complete">Update profile %s completed</string>
     <string name="toast_profile_updated_failed">Update profile %1$s failed: %2$s</string>
     <string name="external_control_activity">External Control</string>
-    <string name="external_control_started">Clash.Meta service started</string>
-    <string name="external_control_stopped">Clash.Meta service stopped</string>
+    <string name="external_control_started">YS.Meta service started</string>
+    <string name="external_control_stopped">YS.Meta service stopped</string>
 
     <string name="hide_app_icon_title">Hide App Icon</string>
     <string name="hide_app_icon_desc">You can dial *#*#252746382#*#* to open this App</string>
@@ -365,10 +365,10 @@
     <string name="import_from_qr_no_permission">Camera access is restricted. Please enable it in Settings.</string>
     <string name="import_from_qr_exception">An unhandled system exception occurred.</string>
 
-    <string name="shortcut_toggle_short">Toggle Clash</string>
-    <string name="shortcut_toggle_long">Toggle Clash service on/off</string>
-    <string name="shortcut_start_short">Start Clash</string>
-    <string name="shortcut_start_long">Start Clash service</string>
-    <string name="shortcut_stop_short">Stop Clash</string>
-    <string name="shortcut_stop_long">Stop Clash service</string>
+    <string name="shortcut_toggle_short">Toggle YS</string>
+    <string name="shortcut_toggle_long">Toggle YS service on/off</string>
+    <string name="shortcut_start_short">Start YS</string>
+    <string name="shortcut_start_long">Start YS service</string>
+    <string name="shortcut_stop_short">Stop YS</string>
+    <string name="shortcut_stop_long">Stop YS service</string>
 </resources>

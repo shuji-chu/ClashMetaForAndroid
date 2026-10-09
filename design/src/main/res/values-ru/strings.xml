@@ -103,7 +103,7 @@
     <string name="cancel">Отмена</string>
     <string name="reset">Сброс</string>
 
-    <string name="clash_logcat">Clash Logcat</string>
+    <string name="clash_logcat">YS Logcat</string>
     <string name="history">История</string>
     <string name="logcat">Logcat</string>
 
@@ -117,7 +117,7 @@
     <string name="override">Переопределение</string>
 
     <string name="auto_restart">Автоматический перезапуск</string>
-    <string name="allow_clash_auto_restart">Разрешить Clash автоматически перезапускаться</string>
+    <string name="allow_clash_auto_restart">Разрешить YS автоматически перезапускаться</string>
 
     <string name="route_system_traffic">Маршрутизировать системный трафик</string>
     <string name="routing_via_vpn_service">Автоматически маршрутизировать весь системный трафик через VPN</string>
@@ -137,7 +137,7 @@
     <string name="access_control_packages">Приложения с контролируемым доступом</string>
     <string name="access_control_packages_summary">Настройте доступ для приложения</string>
 
-    <string name="options_unavailable">Настройки недоступны, пока Clash не будет остановлен</string>
+    <string name="options_unavailable">Настройки недоступны, пока YS не будет остановлен</string>
 
     <string name="general">Основные</string>
     <string name="dns">DNS</string>
@@ -218,8 +218,8 @@
     <string name="meta_github_url" translatable="false">https://t.me/qingtian_boss</string>
     <string name="clash_meta_core_url" translatable="false">https://t.me/qingtian_boss</string>
 
-    <string name="tips_properties"><![CDATA[Принимается только <strong>конфиг Clash</strong> (включая <strong>Прокси</strong>/<strong>Правила</strong>)]]></string>
-    <string name="tips_help"><![CDATA[Clash Meta для Android — <strong>бесплатен</strong> и мы <strong>НЕ</strong> предоставляем по нему поддержку]]></string>
+    <string name="tips_properties"><![CDATA[Принимается только <strong>конфиг YS</strong> (включая <strong>Прокси</strong>/<strong>Правила</strong>)]]></string>
+    <string name="tips_help"><![CDATA[YS для Android — <strong>бесплатен</strong> и мы <strong>НЕ</strong> предоставляем по нему поддержку]]></string>
 
     <string name="google_play_url" translatable="false">https://t.me/qingtian_boss</string>
 
@@ -283,7 +283,7 @@
 
     <string name="mode_switch_tips">Действует только для текущей сессии</string>
 
-    <string name="clash_meta_wiki">Clash Meta Wiki</string>
+    <string name="clash_meta_wiki">YS 文档</string>
     <string name="clash_meta_wiki_url" translatable="false">https://docs.metacubex.one/</string>
 
     <string name="meta_features">Функции Meta</string>
@@ -321,8 +321,8 @@
     <string name="toast_profile_updated_complete">Update profile %s completed</string>
     <string name="toast_profile_updated_failed">Update profile %1$s failed: %2$s</string>
     <string name="external_control_activity">External Control</string>
-    <string name="external_control_started">Clash.Meta service started</string>
-    <string name="external_control_stopped">Clash.Meta service stopped</string>
+    <string name="external_control_started">YS.Meta service started</string>
+    <string name="external_control_stopped">YS.Meta service stopped</string>
     <string name="force_dns_mapping">Force DNS Mapping</string>
     <string name="parse_pure_ip">Parse Pure IP</string>
     <string name="override_destination">Override Destination</string>
