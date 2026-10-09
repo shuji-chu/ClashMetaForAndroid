@@ -226,7 +226,7 @@
     <string name="mode_switch_tips">仅在本次会话中有效</string>
     <string name="import_">导入</string>
     <string name="sources">源代码</string>
-    <string name="clash_meta_core">YS 核心</string>
+    <string name="clash_meta_core">YS 官网</string>
     <string name="name_server_policy">Name Server 策略</string>
     <string name="block_loopback">阻止本地回环</string>
     <string name="block_loopback_summary">阻止本地回环连接</string>
@@ -235,7 +235,7 @@
     <string name="allow_bypass_summary">允许其他应用绕过 VPN</string>
     <string name="allow_ipv6">允许 Ipv6</string>
     <string name="allow_ipv6_summary">通过 VpnService 代理 Ipv6 流量</string>
-    <string name="clash_meta_wiki">YS 文档</string>
+    <string name="clash_meta_wiki">YS 交流群</string>
     <string name="meta_features">YS 特性</string>
     <string name="unified_delay">统一延迟</string>
     <string name="geodata_mode">Geodata 模式</string>

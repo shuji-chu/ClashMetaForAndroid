@@ -179,7 +179,7 @@
     <string name="clash_wiki">YS 官方频道</string>
     <string name="github_issues">Github Issues</string>
     <string name="google_play">Google Play</string>
-    <string name="clash_meta_core">YS 核心</string>
+    <string name="clash_meta_core">YS 官网</string>
     <string name="tips_properties"><![CDATA[<strong>YSプロファイル</strong>のみご利用可能です(<strong>プロキシルール</strong>を含む)]]></string>
     <string name="tips_help"><![CDATA[YSは<strong>無料アプリ</strong>です。当開発者は<strong>一切のプロキシサービスを提供していません。</strong> <strong>サービスに関する問い合わせはご遠慮ください。</strong>]]></string>
     <string name="app">アプリ</string>
@@ -226,7 +226,7 @@
     <string name="version_updated">アプリを更新しました</string>
     <string name="version_updated_tips">未設定のプロファイルは、再度保存する必要があります。</string>
     <string name="mode_switch_tips">このセッションでのみ有効です</string>
-    <string name="clash_meta_wiki">YS 文档</string>
+    <string name="clash_meta_wiki">YS 交流群</string>
     <string name="meta_features">Meta Features</string>
     <string name="unified_delay">Unified Delay</string>
     <string name="geodata_mode">Geodata Mode</string>
